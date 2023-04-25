@@ -21,17 +21,11 @@ Participants must have a basic understanding of blockchain technology and be abl
 ## Feedback Mechanism: 
 Participants running the testnet nodes can provide feedback on the network, report bugs, and suggest improvements through a designated feedback channel.
 
-## Deliverables:
-For bug reporters, the deliverable is a well-documented issue report that accurately describes the bug, includes steps to reproduce, and assigns an appropriate severity level.
-
-For bug fixers, the deliverable is a pull request that addresses the reported bug and includes a clear description of the problem and the proposed solution. The fix should be thoroughly tested to ensure that it resolves the issue and does not introduce any new problems.
-
 ## Reward:
-The bounty reward for reporting a bug is categorized based on the severity for example something like low, medium and high
- The reward will be paid upon acceptance of the pull request and successful integration of the fix into our product.
+The bounty reward for participation in the testnet will be rewarded once the testent period is completed. We will use several tracking tools like telemetry and Grafana to calculate the uptime and reward the eligible participants.
 
 ## Timeline:
-There is no set timeline for reporting or fixing bugs. However, we encourage prompt reporting and fixing of bugs to ensure the stability and security of our product.
+The exact timeline and details will be announced in our official channels like discord, signal, etc. Please keep an eye on our channels for latest update about the tesnet
 
 
 ### For example
