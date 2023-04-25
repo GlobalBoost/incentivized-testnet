@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Testnet template
 about: This is to be used as the enrolling form for the testnet participants
 title: ''
 labels: testnet
