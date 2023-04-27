@@ -14,6 +14,7 @@ Participants must have a basic understanding of blockchain technology and be abl
  - Discord Username:
  - Testnode 1 name:
  - Testnode 2 name: [this is optional, as you can have at max two node running for a single user]
+ - Public Key: 
  - Tell us more about your skills and background that could be beneficial in future for Impact:
  - What do you think could be good to implement in Impact Protocol:
  - Are you planning to build anything in Impact protocol in future:
