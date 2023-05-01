@@ -30,5 +30,5 @@ The exact timeline and details will be announced in our official channels like d
 
 
 ### For example
-There has been an issue created, please follow the link
+There has been an issue created, please follow the [link](https://github.com/GlobalBoost/incentivized-testnet/issues/1)
 
